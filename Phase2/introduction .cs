@@ -17,7 +17,6 @@ namespace WindowsFormsApp1
         private int displayHeight = Screen.PrimaryScreen.Bounds.Height;
         //ディスプレイの幅
         private int displayWidh = Screen.PrimaryScreen.Bounds.Width;
-
         public introduction()
         {
             InitializeComponent();
