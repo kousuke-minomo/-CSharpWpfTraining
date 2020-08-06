@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\Phase2\\Phase2\\introduction.csproj": {}
+    "D:\\Git\\-CSharpWpfTraining\\Phase2\\introduction.csproj": {}
   },
   "projects": {
-    "D:\\Git\\Phase2\\Phase2\\introduction.csproj": {
+    "D:\\Git\\-CSharpWpfTraining\\Phase2\\introduction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Phase2\\Phase2\\introduction.csproj",
+        "projectUniqueName": "D:\\Git\\-CSharpWpfTraining\\Phase2\\introduction.csproj",
         "projectName": "introduction",
-        "projectPath": "D:\\Git\\Phase2\\Phase2\\introduction.csproj",
+        "projectPath": "D:\\Git\\-CSharpWpfTraining\\Phase2\\introduction.csproj",
         "packagesPath": "C:\\Users\\km-ta_000\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Phase2\\Phase2\\obj\\",
+        "outputPath": "D:\\Git\\-CSharpWpfTraining\\Phase2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\km-ta_000\\AppData\\Roaming\\NuGet\\NuGet.Config",

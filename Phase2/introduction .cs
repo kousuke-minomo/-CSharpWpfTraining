@@ -29,6 +29,8 @@ namespace WindowsFormsApp1
             lblmoveValue.Text = movebar.Value.ToString();
         }
 
+
+
         private void LengthBar_Scroll(object sender, EventArgs e)
         {
             lblLength.Text = LengthBar.Value.ToString();
