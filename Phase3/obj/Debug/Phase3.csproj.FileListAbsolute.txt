@@ -1,0 +1,16 @@
+D:\Git\-CSharpWpfTraining\Phase3\bin\Debug\Phase3.exe.config
+D:\Git\-CSharpWpfTraining\Phase3\bin\Debug\Phase3.exe
+D:\Git\-CSharpWpfTraining\Phase3\bin\Debug\Phase3.pdb
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\Phase3.csprojAssemblyReference.cache
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\MainWindow.g.cs
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\App.g.cs
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\Phase3_MarkupCompile.cache
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\Phase3_MarkupCompile.lref
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\MainWindow.baml
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\Phase3.g.resources
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\Phase3.Properties.Resources.resources
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\Phase3.csproj.GenerateResource.cache
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\Phase3.csproj.CoreCompileInputs.cache
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\Phase3.exe
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\Phase3.pdb
+D:\Git\-CSharpWpfTraining\Phase3\obj\Debug\GeneratedInternalTypeHelper.g.cs
